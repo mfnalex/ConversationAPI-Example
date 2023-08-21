@@ -1,0 +1,8 @@
+name: ConversationAPIExample
+version: 1.0
+main: com.jeff_media.conversationapiexample.ConversationAPIExamplePlugin
+api-version: 1.13
+commands:
+  createitem:
+    description: Creates an item for yourself
+    usage: /<command>
